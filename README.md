@@ -2,7 +2,9 @@
 
 #### Isha Share&Nurture Project
 
-This code powers the Google spreadsheet which stores all the bitly links created during the Share&Nurture project, fetching data from Bitly API. 
+Share&Nurture is a project by a few volunteers from the Isha Foundation, which aims at sharing content related to yoga, health & wellbeing.
+
+During the Share&Nurture project many bitly links are created. This code powers the Google spreadsheet in which all created bitly links are stored. Making it possible to fetch data from Bitly API and update the database with  
 
 #### spreadsheet
 Link do the "Dashboard Data" SPREADSHEET: https://docs.google.com/spreadsheets/d/1F8zPtmY9enT7HVzgH6aJFlFGftjTOGupRxqsaTONezQ/edit#gid=555494322
