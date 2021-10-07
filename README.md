@@ -1,1 +1,10 @@
-# Share-Nurture-Dashboard
+# Share-Nurture-Dashboard_appsscript
+Isha Share&Nurture project.
+
+This code powers the Google spreadsheet which stores all the bitly links created during the Share&Nurture project, fetching data from Bitly API. 
+Link do the "Dashboard Data" spreadsheet: https://docs.google.com/spreadsheets/d/1F8zPtmY9enT7HVzgH6aJFlFGftjTOGupRxqsaTONezQ/edit#gid=555494322
+
+### How it works
+For every bitly link stored in the spreadsheet, the click count on the bitly link is updated by being fetched from Bitly API (only for bitlinks younger than 30 days).
+To start the function go in the top menu under Isha Tools > Fetch Bitly API Data. An API call is made for each bitly link, making a request to get the number of clicks on this bitly, and updates the value.
+This data is later used in a Google Data Studio project to better visualize the clickrates for each country. Link to the "Dashboard" file: (to be added...)
