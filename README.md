@@ -1,6 +1,6 @@
 # Share-Nurture-Dashboard_appsscript
 
-NOTE: Due to an unfortunate error a Team member has accidentally deleted all code providing the functionality for this spreadsheet, making it impossible to recover it. I will write this again for sure, but perhaps this time not as a Google Spreadsheet.
+NOTE: Due to an unfortunate error a Team member has accidentally deleted all code behind this spreadsheet, making it impossible to recover it. I will write this again for sure, but perhaps this time not as a Google Spreadsheet.
 
 #### Isha Share&Nurture Project
 
