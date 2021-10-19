@@ -1,5 +1,7 @@
 # Share-Nurture-Dashboard_appsscript
 
+NOTE: Due to an unfortunate error someone from the Team has deleted all code providing the functionality for this spreadsheet, making it impossible to recover it. I will write this again for sure, but perhaps this time not as a Google Spreadsheet.
+
 #### Isha Share&Nurture Project
 
 Share&Nurture is a project by a few volunteers from the Isha Foundation, which aims at sharing content related to yoga, health & wellbeing.
